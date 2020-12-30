@@ -1,6 +1,7 @@
 ### Hey there! <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 # I'm [Keshav Tyagi](https://github.com/iamkeshavtyagi),
+A developer by passion, a tech enthusiast, Problem solver, passionate to learn new forks.
 
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">Birla Institute of Technology(Mesra).
 
