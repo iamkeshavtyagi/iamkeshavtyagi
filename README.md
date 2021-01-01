@@ -68,8 +68,8 @@ A developer by passion, a tech enthusiast, Problem solver, passionate to learn n
 ⭐️ Recent working on projects:rocket:
 1. Social Media Blog Site.
 2. Canvas Game.
-3. Email extraction
-
+3. Email extraction.
+4. Snake Game-https://github.com/iamkeshavtyagi/snake-game
 
 <!-- ### Hi there 👋
 
